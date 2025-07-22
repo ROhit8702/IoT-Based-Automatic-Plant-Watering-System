@@ -28,10 +28,6 @@ The **IoT-Based Automatic Plant Watering System** is a smart solution designed t
 3. If the moisture level is low, the **Relay Module** is activated to power on the **Water Pump**.
 4. The system sends the moisture data to **ThingSpeak**, providing real-time updates.
 
-## Circuit Diagram
-
-![Circuit Diagram](https://www.example.com/circuit-diagram.png)  *(Replace this URL with your actual circuit diagram)*
-
 ## Wiring Connections
 
 - **Soil Moisture Sensor**:
